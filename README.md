@@ -27,11 +27,3 @@ Online-Shopping-System/
 ├── CartItem.java
 ├── ShoppingSystem.java
 └── Main.java
-
-## How to Run
-
-Compile the Java files:
-
-```bash
-javac Product.java CartItem.java ShoppingSystem.java Main.java
-
